@@ -1,4 +1,4 @@
 ---
-Rado: Welcome to my blog1
+Title: Welcome to Rado's blog
 ---
 
