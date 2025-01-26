@@ -1,4 +1,4 @@
 ---
 title: "This is my first post"
-date: YYYY-MM-DD
+date: 2025-01-26
 ---
